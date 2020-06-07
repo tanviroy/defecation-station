@@ -14,5 +14,5 @@ This is #2 of the Series of Spectacularly Silly (yet fun!) websites to come.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-I also would like to credit my really cool CS Professor Debayan Gupta (again) for being the reason behind my interest in CS. 
-Lastly, I would like to thank my best friend "smol gurl" for being my biggest inspiration. 
+I would like to credit my really cool CS Professor Debayan Gupta (again) for being the reason behind my interest in CS. 
+I would also like to thank my best friend "smol gurl" for being my biggest inspiration. 
